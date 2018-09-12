@@ -1,5 +1,7 @@
 # Oracle Docker image
 
+_Note: This docker image requires *docker network running* to link other containers
+
 
 # Build the image
 
